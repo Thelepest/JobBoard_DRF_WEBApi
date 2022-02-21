@@ -6,5 +6,7 @@ Before using that, you'll need to create a superuser with username and password 
 Developed in VSC in Python Language. 
 The plugs required to let the code work are reported in the file "requirements.txt".
 
+For info or any suggestion email me at marco.biasone.90@gmail.com
+
 Enjoy! :)
 
